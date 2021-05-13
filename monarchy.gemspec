@@ -29,7 +29,7 @@ Gem::Specification.new do |s|
 
   s.add_dependency 'active_record_union', '1.3.0'
   s.add_dependency 'activerecord', '>=4.2.7.1'
-  s.add_dependency 'closure_tree', '7.0.0'
+  s.add_dependency 'closure_tree', '~>7.2'
   s.add_dependency 'configurations', '2.2.2'
   s.add_dependency 'tqdm', '0.3.0'
 end
